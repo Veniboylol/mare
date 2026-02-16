@@ -44,7 +44,7 @@ body, html {
 .castle-bg {
     position: absolute;
     bottom: 12vh;
-    right: -10%; /* Moved in for mobile visibility */
+    right: -20%; /* Moved in for mobile visibility */
     width: 110vw;
     max-width: 800px;
     filter: brightness(0.1) drop-shadow(-2px -2px 12px rgba(255, 223, 128, 0.3));
@@ -165,4 +165,5 @@ body, .title, .question, .signature, .stars {
     color: #D6BCFA !important; 
     font-size: 0.7rem; 
     z-index: 600; 
+
 }
